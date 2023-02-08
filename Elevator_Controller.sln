@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Elevator_Controller", "Elevator_Controller.vcxproj", "{93862BFD-3D13-4C8D-B51B-BB2436EBE670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93862BFD-3D13-4C8D-B51B-BB2436EBE670}.Debug|x64.ActiveCfg = Debug|x64
+		{93862BFD-3D13-4C8D-B51B-BB2436EBE670}.Debug|x64.Build.0 = Debug|x64
+		{93862BFD-3D13-4C8D-B51B-BB2436EBE670}.Debug|x86.ActiveCfg = Debug|Win32
+		{93862BFD-3D13-4C8D-B51B-BB2436EBE670}.Debug|x86.Build.0 = Debug|Win32
+		{93862BFD-3D13-4C8D-B51B-BB2436EBE670}.Release|x64.ActiveCfg = Release|x64
+		{93862BFD-3D13-4C8D-B51B-BB2436EBE670}.Release|x64.Build.0 = Release|x64
+		{93862BFD-3D13-4C8D-B51B-BB2436EBE670}.Release|x86.ActiveCfg = Release|Win32
+		{93862BFD-3D13-4C8D-B51B-BB2436EBE670}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F194A7B-8F01-4826-9A3D-52414D917D7F}
+	EndGlobalSection
+EndGlobal
